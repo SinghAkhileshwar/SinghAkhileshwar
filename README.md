@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akhileshwar Singh</h1>
 <h3 align="center">A passionate student from NIT Hamirpur</h3>
+<img src="https://tenor.com/search/zoro-gifs" align="right">
 
 - 🔭 I’m currently working on [Creator-website](https://github.com/SinghAkhileshwar/Creators-website)
 
