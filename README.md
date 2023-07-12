@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on  [Creator-website](https://github.com/SinghAkhileshwar/Creators-website)
 
-- 🌱 I’m currently learning **Angular,Nord.js,etc.**
+- 🌱 I’m currently learning **Angular,Nord.js,etc**
 
 - 📫 How to reach me **akhileshwarsingh615@gmail.com**
 
