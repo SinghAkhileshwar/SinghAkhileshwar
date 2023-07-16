@@ -4,7 +4,7 @@
 <h3 align="center">A passionate student from NIT Hamirpur</h3>
 <img src="4d6408285378256a5080815dad34d608.gif" align="right" style="height:200px;width:300px;magin-right:100px">
 
-- 🔭 I’m currently working on  [Creator-website](https://github.com/SinghAkhileshwar/Creators-website)
+- 🔭 I’m currently working  on  [Creator-website](https://github.com/SinghAkhileshwar/Creators-website)
 
 - 🌱 I’m currently learning **Angular,Nord.js,etc.**
 
