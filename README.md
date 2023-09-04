@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi👋, I'm Akhileshwar Singh</h1>
+<h1 align="center">Hi!👋, I'm Akhileshwar Singh</h1>
 <h3 align="center">A passionate student from NIT Hamirpur.</h3>
 <img src="4d6408285378256a5080815dad34d608.gif" align="right" style="height:200px;width:300px;magin-right:100px">
 
